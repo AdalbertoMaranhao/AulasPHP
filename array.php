@@ -18,4 +18,4 @@ $pessoa = [
 
 //TODO ARRAY NO PHP É INDEXADO OU SEJA POSSUI INDICES OU ENDEREÇOS PARA OS VALORES
 
-echo (date("d/m/Y H:i:s"));
+var_dump($pessoa);
